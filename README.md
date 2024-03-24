@@ -7,3 +7,4 @@ Criar estrutura do App
 -----------------------
 npx create-expo-app AuriApp
 
+
