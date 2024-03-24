@@ -13,3 +13,6 @@ Iniciar o app com expo
 cd AuriApp
 npx expo start
 
+Instalar o react navigation
+-----------------------
+npm install @react-navigation/native
