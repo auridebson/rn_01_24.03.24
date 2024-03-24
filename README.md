@@ -12,3 +12,4 @@ Iniciar o app com expo
 -----------------------
 cd AuriApp
 npx expo start
+
